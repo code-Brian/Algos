@@ -49,3 +49,32 @@ function getOnlyNumericCharacters(inputString){
 
 let numString = "12aBc345dd"
 console.log(getOnlyNumericCharacters(numString))
+
+// Acronyms
+// Create a function that, given a string, returns the string's acronym.
+// You are allowed to use split() and toUpperCase().
+function convertToAcronym(inputString){
+    let acronym=""
+    const acronymArray = inputString.split(" ")
+    for (let i=0; i<acronymArray.length; i++){
+        acronym += acronymArray[i].substring(acronymArray[i], 1).toUpperCase()
+        // console.log("parsed value is: " + acronymArray[i].substring(acronymArray[i], 1).toUpperCase())
+    }
+    return acronym
+}
+
+console.log(convertToAcronym("Hello it's me your friend Bobby"))
+
+// Count Non-Spaces
+// Create a function that, given a string, returns the number of non-space characters found in the string.
+function countNonSpaces(inputString){
+    let nonSpaceCharCount = 0
+    for (let i=0; i<inputString.length; i++){
+        if(inputString.charAt(i)!= " "){
+            nonSpaceCharCount++
+        }
+    }
+    return nonSpaceCharCount
+}
+
+console.log(countNonSpaces("Hi it's me your friend bobby"))
