@@ -78,3 +78,21 @@ function countNonSpaces(inputString){
 }
 
 console.log(countNonSpaces("Hi it's me your friend bobby"))
+
+// Remove Shorter Strings
+// Create a function that given an array of strings and a numerical value, returns an array that only contains strings longer than or equal 
+// to the given value.
+
+function removeShorterStrings(stringArray, stringLength){
+    let filteredStrings = []
+    for (let i=0; i<stringArray.length; i++){
+        if(stringArray[i].length >= stringLength){
+            console.log(stringLength)
+            console.log(stringArray[i].length)
+            filteredStrings.push(stringArray[i])
+        }
+    }
+    return filteredStrings
+}
+
+console.log(removeShorterStrings(["hello", "world", "it's", "me", "the", "lol"], 4))
