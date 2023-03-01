@@ -30,8 +30,22 @@ function removeWhiteSpace(inputString){
     return tempString
 }
 
-let myString = "H e llo D               er p"
+let myString = "H e ll o D         er p"
 
 console.log(removeWhiteSpace(myString));
 
 // Create a JavaScript function that given a string, returns the integer made from the strings digits. You are allowed to use isNaN() and Number().
+function getOnlyNumericCharacters(inputString){
+    let castFromStringToNum = ""
+    for(let i=0; i<inputString.length; i++){
+        if(Number(inputString.charAt(i))){
+            // Alternatively, I could have used Number.isNaN() to compare the incoming values, 
+            // but I wasn't sure if that was allowed, so I stuck with the boolean comparison for now.
+            castFromStringToNum += inputString.charAt(i)
+        }
+    }
+    return Number(castFromStringToNum)
+}
+
+let numString = "12aBc345dd"
+console.log(getOnlyNumericCharacters(numString))
