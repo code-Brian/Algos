@@ -75,8 +75,8 @@ class SLL {
     display(){
         let message = ""
         let currentNode = this.head
-        while(currentNode!==null){
-            if(currentNode.next!==null){
+        while(currentNode !== null){
+            if(currentNode.next !== null){
                 message += currentNode.data + ", "
                 currentNode = currentNode.next
             }
@@ -92,8 +92,9 @@ let SLLmeme = new SLL()
 
 SLLmeme.addFront(1)
 SLLmeme.addFront("Larry David")
-SLLmeme.addFront(4.233)
+SLLmeme.addFront(4.0233475)
 SLLmeme.addFront("haha isn't this funny")
+SLLmeme.addFront("whoa")
 
 // SLLmeme.printValues()
 SLLmeme.display()
