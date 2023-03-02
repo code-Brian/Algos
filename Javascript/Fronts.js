@@ -51,6 +51,9 @@ class SLL {
         // Checking values for debug
         console.log("Current node is: " + currentNode.data)
         console.log("Next node is: " + nextNode.data)
+        if(currentNode.data === null){
+            return null
+        }
         // currentNode is now the next Node
         currentNode = nextNode
         // the head is now set to the Next node
@@ -59,6 +62,14 @@ class SLL {
         // Next Node is set to the subsequent Node in our list.
         nextNode = currentNode.next
         console.log("Next node is now: " + nextNode.data)
+    }
+    // Write a method to return the value(not the node) at the head of the list. If the list is empty, return null.
+    front(){
+        let currentNode = this.head
+        if(currentNode===null){
+            return null
+        }
+        return currentNode.data
     }
 }
 
@@ -71,3 +82,6 @@ testSLL.removeFront()
 console.log(testSLL.printValues())
 testSLL.addFront(15)
 console.log(testSLL.printValues())
+console.log("The value at the front of the list is: " + testSLL.front())
+testSLL.addFront(null)
+console.log("Now the current value at the front of the list is: " + testSLL.front())
