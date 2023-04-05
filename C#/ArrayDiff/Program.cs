@@ -1,25 +1,29 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, ArrayDiff Meme!");
 
-// TODO: Figure out how compare the values between the incoming arrays.
-// If there is a value that is not shared between the arrays, 
-// add it to an array that will hold and return the discovered unique values.
 int[] FindArrayDiff(int[] a,int[] b)
 {
-    int[] uniqueNums ={0};
-    for(int i=0; i<a.Length; i++){
-        Console.WriteLine($"a at index {i} is: {a[i]}");
-        for(int j=0; j<b.Length; j++)
+    List<int> tempNums = new List<int>();
+    List<int> uniqueNums = new List<int>();
+    for(int i=0; i < a.Length; i++)
+    {
+        tempNums.Add(a[i]);
+    }
+
+    for(int i=0; i < b.Length; i++)
+    {
+        if(!tempNums.Contains(b[i]))
         {
-            Console.WriteLine($"b at index {j} is: {b[j]}");
-            if(a[i] != b[j])
-            {
-                Console.WriteLine("Unique value!");
-                Console.WriteLine($"a: {a[i]} b:{b[j]}");
-            }
+            Console.WriteLine($"New unique value found at b[{i}]. Value: {b[i]}");
+            uniqueNums.Add(b[i]);
         }
     }
-    return uniqueNums;
+
+    return uniqueNums.ToArray();
 }
 
-FindArrayDiff(new int[]{1,2,3,4}, new int[]{1,2,3});
+int[] uniques = FindArrayDiff(new int[]{1,7,2,3,5}, new int[]{1,1,2,3,4});
+for(int i=0; i<uniques.Length; i++)
+{
+    Console.WriteLine(uniques[i]);
+}
