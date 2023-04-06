@@ -22,7 +22,7 @@ int[] FindArrayDiff(int[] a,int[] b)
     return uniqueNums.ToArray();
 }
 
-int[] uniques = FindArrayDiff(new int[]{1,7,2,3,5}, new int[]{1,1,2,3,4});
+int[] uniques = FindArrayDiff(new int[]{1,1, 2,3,4}, new int[]{1,2,3,5});
 for(int i=0; i<uniques.Length; i++)
 {
     Console.WriteLine(uniques[i]);
