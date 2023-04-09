@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\bin\Debug\net7.0\NumberOfPeopleOnTheBus.exe
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\bin\Debug\net7.0\NumberOfPeopleOnTheBus.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\bin\Debug\net7.0\NumberOfPeopleOnTheBus.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\bin\Debug\net7.0\NumberOfPeopleOnTheBus.dll
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\bin\Debug\net7.0\NumberOfPeopleOnTheBus.pdb
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\obj\Debug\net7.0\NumberOfPeopleOnTheBus.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\obj\Debug\net7.0\NumberOfPeopleOnTheBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\obj\Debug\net7.0\NumberOfPeopleOnTheBus.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\obj\Debug\net7.0\NumberOfPeopleOnTheBus.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\obj\Debug\net7.0\NumberOfPeopleOnTheBus.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\obj\Debug\net7.0\NumberOfPeopleOnTheBus.dll
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\obj\Debug\net7.0\refint\NumberOfPeopleOnTheBus.dll
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\obj\Debug\net7.0\NumberOfPeopleOnTheBus.pdb
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\obj\Debug\net7.0\NumberOfPeopleOnTheBus.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\NumberOfPeopleOnTheBus\obj\Debug\net7.0\ref\NumberOfPeopleOnTheBus.dll
