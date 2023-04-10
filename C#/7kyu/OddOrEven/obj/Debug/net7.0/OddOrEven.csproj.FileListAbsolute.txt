@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\bin\Debug\net7.0\OddOrEven.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\bin\Debug\net7.0\OddOrEven.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\bin\Debug\net7.0\OddOrEven.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\bin\Debug\net7.0\OddOrEven.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\bin\Debug\net7.0\OddOrEven.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\obj\Debug\net7.0\OddOrEven.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\obj\Debug\net7.0\OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\obj\Debug\net7.0\OddOrEven.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\obj\Debug\net7.0\OddOrEven.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\obj\Debug\net7.0\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\obj\Debug\net7.0\OddOrEven.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\obj\Debug\net7.0\refint\OddOrEven.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\obj\Debug\net7.0\OddOrEven.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\obj\Debug\net7.0\OddOrEven.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddOrEven\obj\Debug\net7.0\ref\OddOrEven.dll
