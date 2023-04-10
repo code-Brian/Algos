@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\bin\Debug\net7.0\CircleSlash.exe
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\bin\Debug\net7.0\CircleSlash.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\bin\Debug\net7.0\CircleSlash.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\bin\Debug\net7.0\CircleSlash.dll
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\bin\Debug\net7.0\CircleSlash.pdb
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\obj\Debug\net7.0\CircleSlash.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\obj\Debug\net7.0\CircleSlash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\obj\Debug\net7.0\CircleSlash.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\obj\Debug\net7.0\CircleSlash.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\obj\Debug\net7.0\CircleSlash.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\obj\Debug\net7.0\CircleSlash.dll
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\obj\Debug\net7.0\refint\CircleSlash.dll
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\obj\Debug\net7.0\CircleSlash.pdb
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\obj\Debug\net7.0\CircleSlash.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\CircleSlash\obj\Debug\net7.0\ref\CircleSlash.dll
