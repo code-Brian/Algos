@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\bin\Debug\net7.0\PowerOfTwo.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\bin\Debug\net7.0\PowerOfTwo.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\bin\Debug\net7.0\PowerOfTwo.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\bin\Debug\net7.0\PowerOfTwo.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\bin\Debug\net7.0\PowerOfTwo.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\obj\Debug\net7.0\PowerOfTwo.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\obj\Debug\net7.0\PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\obj\Debug\net7.0\PowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\obj\Debug\net7.0\PowerOfTwo.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\obj\Debug\net7.0\PowerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\obj\Debug\net7.0\PowerOfTwo.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\obj\Debug\net7.0\refint\PowerOfTwo.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\obj\Debug\net7.0\PowerOfTwo.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\obj\Debug\net7.0\PowerOfTwo.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\PowerOfTwo\obj\Debug\net7.0\ref\PowerOfTwo.dll
