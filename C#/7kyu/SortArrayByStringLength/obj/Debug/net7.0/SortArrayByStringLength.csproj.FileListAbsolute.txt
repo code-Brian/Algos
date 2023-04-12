@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\bin\Debug\net7.0\SortArrayByStringLength.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\bin\Debug\net7.0\SortArrayByStringLength.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\bin\Debug\net7.0\SortArrayByStringLength.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\bin\Debug\net7.0\SortArrayByStringLength.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\bin\Debug\net7.0\SortArrayByStringLength.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\obj\Debug\net7.0\SortArrayByStringLength.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\obj\Debug\net7.0\SortArrayByStringLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\obj\Debug\net7.0\SortArrayByStringLength.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\obj\Debug\net7.0\SortArrayByStringLength.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\obj\Debug\net7.0\SortArrayByStringLength.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\obj\Debug\net7.0\SortArrayByStringLength.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\obj\Debug\net7.0\refint\SortArrayByStringLength.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\obj\Debug\net7.0\SortArrayByStringLength.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\obj\Debug\net7.0\SortArrayByStringLength.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortArrayByStringLength\obj\Debug\net7.0\ref\SortArrayByStringLength.dll
