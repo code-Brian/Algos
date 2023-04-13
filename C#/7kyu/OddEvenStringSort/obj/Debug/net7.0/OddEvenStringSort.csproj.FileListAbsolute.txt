@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\bin\Debug\net7.0\OddEvenStringSort.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\bin\Debug\net7.0\OddEvenStringSort.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\bin\Debug\net7.0\OddEvenStringSort.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\bin\Debug\net7.0\OddEvenStringSort.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\bin\Debug\net7.0\OddEvenStringSort.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\obj\Debug\net7.0\OddEvenStringSort.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\obj\Debug\net7.0\OddEvenStringSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\obj\Debug\net7.0\OddEvenStringSort.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\obj\Debug\net7.0\OddEvenStringSort.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\obj\Debug\net7.0\OddEvenStringSort.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\obj\Debug\net7.0\OddEvenStringSort.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\obj\Debug\net7.0\refint\OddEvenStringSort.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\obj\Debug\net7.0\OddEvenStringSort.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\obj\Debug\net7.0\OddEvenStringSort.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OddEvenStringSort\obj\Debug\net7.0\ref\OddEvenStringSort.dll
