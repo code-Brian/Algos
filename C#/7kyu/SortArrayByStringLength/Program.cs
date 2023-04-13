@@ -6,23 +6,21 @@ Console.WriteLine("Hello, Array String Length Meme!");
 string[] SortByLength(string[] array)
 {
     List<string> SortingList = array.ToList();
-    string PreviousStr=SortingList[0];
     string ShortestStr=SortingList[0];
 
     for(int i=0; i<SortingList.Count; i++)
     {
-        for(int j=0; j<SortingList.Count; j++)
+        ShortestStr = SortingList[i];
+        for(int j=i; j<SortingList.Count; j++)
         {
-            if(SortingList[i].Length < ShortestStr.Length)
+            if(SortingList[j].Length < ShortestStr.Length)
             {
                 Console.WriteLine("Shorter value found!");
-                ShortestStr=SortingList[i];
-                SortingList.Insert(0,SortingList[i]);
-                SortingList.RemoveAt(i+1);
+                ShortestStr=SortingList[j];
+                SortingList.Insert(0,SortingList[j]);
+                SortingList.RemoveAt(j+1);
             }
         }
-
-        PreviousStr=SortingList[i];
     }
     string[] SortedArray = SortingList.ToArray();
     for(int i=0; i<SortedArray.Length; i++)
@@ -33,3 +31,14 @@ string[] SortByLength(string[] array)
 }
 
 SortByLength(new string[]{"Beg", "Life", "I", "To"});
+
+// string[] test = new string[]{"Hello", "World", "Nice", "To", "Meet", "You"};
+
+// for(int i=0; i<test.Length; i++)
+// {
+//     Console.WriteLine($"\ni is {i}");
+//     for(int j=i; j<test.Length; j++)
+//     {
+//         Console.WriteLine(test[j]);
+//     }
+// }
