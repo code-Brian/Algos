@@ -1,23 +1,35 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Array String Length Meme!");
+﻿using System.Data;
+using System.Linq;
 
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, Array String Length Meme!");
 string[] SortByLength(string[] array)
 {
-    List<string> SortingList = new List<string>();
-    for(int i=0; i<array.Length; i++)
-    {
-        SortingList.Add(array[i]);
-    }
+    List<string> SortingList = array.ToList();
+    string PreviousStr=SortingList[0];
+    string ShortestStr=SortingList[0];
 
-    foreach(string str in SortingList)
+    for(int i=0; i<SortingList.Count; i++)
     {
-        Console.WriteLine($"{str} | Length: {str.Length}");
+        for(int j=0; j<SortingList.Count; j++)
+        {
+            if(SortingList[i].Length < ShortestStr.Length)
+            {
+                Console.WriteLine("Shorter value found!");
+                ShortestStr=SortingList[i];
+                SortingList.Insert(0,SortingList[i]);
+                SortingList.RemoveAt(i+1);
+            }
+        }
+
+        PreviousStr=SortingList[i];
     }
-    // for(int i = 0; i<array.Length; i++)
-    // {
-    //     Console.WriteLine($"Length of array[{i}]: {array[i].Length}");
-    // }
-    return array;
+    string[] SortedArray = SortingList.ToArray();
+    for(int i=0; i<SortedArray.Length; i++)
+    {
+        Console.WriteLine($"SortedArray[{i}]: {SortedArray[i]}");
+    }
+    return SortedArray;
 }
 
-SortByLength(new string[]{"hello", "but", "big butt", "at", "I"});
+SortByLength(new string[]{"Beg", "Life", "I", "To"});
