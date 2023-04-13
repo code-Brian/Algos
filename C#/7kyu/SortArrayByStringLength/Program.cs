@@ -11,13 +11,14 @@ string[] SortByLength(string[] array)
     for(int i=0; i<SortingList.Count; i++)
     {
         ShortestStr = SortingList[i];
+        int ListStart = i;
         for(int j=i; j<SortingList.Count; j++)
         {
             if(SortingList[j].Length < ShortestStr.Length)
             {
                 Console.WriteLine("Shorter value found!");
                 ShortestStr=SortingList[j];
-                SortingList.Insert(0,SortingList[j]);
+                SortingList.Insert(ListStart,SortingList[j]);
                 SortingList.RemoveAt(j+1);
             }
         }
