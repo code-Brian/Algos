@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\bin\Debug\net7.0\FindTheIndexOfSecondOccurrence.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\bin\Debug\net7.0\FindTheIndexOfSecondOccurrence.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\bin\Debug\net7.0\FindTheIndexOfSecondOccurrence.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\bin\Debug\net7.0\FindTheIndexOfSecondOccurrence.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\bin\Debug\net7.0\FindTheIndexOfSecondOccurrence.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\obj\Debug\net7.0\FindTheIndexOfSecondOccurrence.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\obj\Debug\net7.0\FindTheIndexOfSecondOccurrence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\obj\Debug\net7.0\FindTheIndexOfSecondOccurrence.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\obj\Debug\net7.0\FindTheIndexOfSecondOccurrence.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\obj\Debug\net7.0\FindTheIndexOfSecondOccurrence.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\obj\Debug\net7.0\FindTheIndexOfSecondOccurrence.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\obj\Debug\net7.0\refint\FindTheIndexOfSecondOccurrence.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\obj\Debug\net7.0\FindTheIndexOfSecondOccurrence.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\obj\Debug\net7.0\FindTheIndexOfSecondOccurrence.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheIndexOfSecondOccurrence\obj\Debug\net7.0\ref\FindTheIndexOfSecondOccurrence.dll
