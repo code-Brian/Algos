@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\bin\Debug\net7.0\FindTheStrayNumber.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\bin\Debug\net7.0\FindTheStrayNumber.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\bin\Debug\net7.0\FindTheStrayNumber.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\bin\Debug\net7.0\FindTheStrayNumber.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\bin\Debug\net7.0\FindTheStrayNumber.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\obj\Debug\net7.0\FindTheStrayNumber.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\obj\Debug\net7.0\FindTheStrayNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\obj\Debug\net7.0\FindTheStrayNumber.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\obj\Debug\net7.0\FindTheStrayNumber.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\obj\Debug\net7.0\FindTheStrayNumber.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\obj\Debug\net7.0\FindTheStrayNumber.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\obj\Debug\net7.0\refint\FindTheStrayNumber.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\obj\Debug\net7.0\FindTheStrayNumber.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\obj\Debug\net7.0\FindTheStrayNumber.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\FindTheStrayNumber\obj\Debug\net7.0\ref\FindTheStrayNumber.dll

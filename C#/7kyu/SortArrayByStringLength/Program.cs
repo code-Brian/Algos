@@ -23,6 +23,7 @@ string[] SortByLength(string[] array)
             }
         }
     }
+
     string[] SortedArray = SortingList.ToArray();
     for(int i=0; i<SortedArray.Length; i++)
     {
@@ -34,7 +35,6 @@ string[] SortByLength(string[] array)
 SortByLength(new string[]{"Beg", "Life", "I", "To"});
 
 // string[] test = new string[]{"Hello", "World", "Nice", "To", "Meet", "You"};
-
 // for(int i=0; i<test.Length; i++)
 // {
 //     Console.WriteLine($"\ni is {i}");
