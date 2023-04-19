@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\bin\Debug\net7.0\ChainFunction.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\bin\Debug\net7.0\ChainFunction.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\bin\Debug\net7.0\ChainFunction.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\bin\Debug\net7.0\ChainFunction.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\bin\Debug\net7.0\ChainFunction.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\obj\Debug\net7.0\ChainFunction.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\obj\Debug\net7.0\ChainFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\obj\Debug\net7.0\ChainFunction.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\obj\Debug\net7.0\ChainFunction.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\obj\Debug\net7.0\ChainFunction.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\obj\Debug\net7.0\ChainFunction.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\obj\Debug\net7.0\refint\ChainFunction.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\obj\Debug\net7.0\ChainFunction.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\obj\Debug\net7.0\ChainFunction.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\ChainFunction\obj\Debug\net7.0\ref\ChainFunction.dll
