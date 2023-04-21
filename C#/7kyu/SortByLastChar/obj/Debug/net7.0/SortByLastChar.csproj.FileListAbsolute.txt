@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\bin\Debug\net7.0\SortByLastChar.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\bin\Debug\net7.0\SortByLastChar.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\bin\Debug\net7.0\SortByLastChar.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\bin\Debug\net7.0\SortByLastChar.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\bin\Debug\net7.0\SortByLastChar.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\obj\Debug\net7.0\SortByLastChar.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\obj\Debug\net7.0\SortByLastChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\obj\Debug\net7.0\SortByLastChar.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\obj\Debug\net7.0\SortByLastChar.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\obj\Debug\net7.0\SortByLastChar.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\obj\Debug\net7.0\SortByLastChar.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\obj\Debug\net7.0\refint\SortByLastChar.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\obj\Debug\net7.0\SortByLastChar.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\obj\Debug\net7.0\SortByLastChar.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortByLastChar\obj\Debug\net7.0\ref\SortByLastChar.dll
