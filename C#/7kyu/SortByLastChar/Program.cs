@@ -1,5 +1,5 @@
 ﻿using System.Text.Json;
-// See https://aka.ms/new-console-template for more information
+//r See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
 string[] Last(string x)
@@ -8,20 +8,28 @@ string[] Last(string x)
     string TempString="";
     for(int i=0; i<x.Length; i++)
     {
-        // put each character of the string into a List
-        TempString = TempString + x[i];
-        Console.WriteLine(x[i]);
-        if(x[i].Equals(" "))
+        if(x[i] == char.Parse(" "))
         {
-            Console.WriteLine(TempString);
-            // Know that you're at the end of a string because of whitespace
-            // Do not add this character. 
-            // Add TempString to your list and continue iterating.
+            Console.WriteLine($"Whitespace detected at index: {i}");
             SortedByLast.Add(TempString);
             TempString="";
         }
+        else if(i == x.Length-1)
+        {
+            Console.WriteLine("End of list detected");
+            TempString = TempString + x[i];
+            SortedByLast.Add(TempString);
+        }
+        else
+        {
+            TempString = TempString + x[i];
+        }
+        
     }
     return SortedByLast.ToArray();
 }
+string[] test = Last("abc cba cab");
 
-Console.WriteLine(JsonSerializer.Serialize(Last("abc cba cab")));
+Console.WriteLine(test[0]);
+Console.WriteLine(test[1]);
+Console.WriteLine(test[2]);
