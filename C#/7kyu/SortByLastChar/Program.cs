@@ -24,28 +24,27 @@ string[] Last(string x)
         {
             TempString = TempString + x[i];
         }
-        int max = 0;
-        string tempString = "";
-        for(int j=0; j<SortedByLast.Count; j++)
+    }
+
+    int Min = (int)SortedByLast[0].Last<char>();
+    Console.WriteLine($"Min starting as: {Min}");
+    for(int i=0; i<SortedByLast.Count; i++)
+    {
+        int Cursor = i;
+        for(int j=i; j<SortedByLast.Count; j++)
         {
-            Console.WriteLine($"Current Value of j: {j}");
-            Console.WriteLine($"Last Char: {SortedByLast[j].Last<char>()}");
-            Console.WriteLine($"Last Char to ascii: {(int)SortedByLast[j].Last<char>()}");
-            if(j==0)
+            if((int)SortedByLast[j].Last<char>() < Min)
             {
-                max = (int)SortedByLast[j].Last<char>();
-                Console.WriteLine($"Initial Max set to: {max}");
+                Min = SortedByLast[j].Last<char>();
+                Console.WriteLine($"Min set to: {Min}");
+                SortedByLast.Insert(Cursor, SortedByLast[j]);
+                SortedByLast.RemoveAt(j+1);
             }
-            else if((int)SortedByLast[j].Last<char>() < max)
-            {
-                max = (int)SortedByLast[j].Last<char>();
-                tempString = SortedByLast[0];
-                SortedByLast.Insert(0, SortedByLast[j]);
-                SortedByLast.RemoveAt(j);
-                SortedByLast.Insert(j, tempString);
-            }
+            Console.WriteLine($"ASCII value at {j} : {(int)SortedByLast[j].Last<char>()}");
+            Console.WriteLine($"SortedByLast[{j}] = {SortedByLast[j]}");
         }
     }
+
     return SortedByLast.ToArray();
 }
 string[] test = Last("abc cba cab");
