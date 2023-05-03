@@ -26,47 +26,32 @@ string[] Last(string x)
         }
     }
 
-    // Setting the min value to value of the first index in the list
-    int Min = (int)SortedByLast[0].Last<char>();
-    Console.WriteLine($"Min starting as: {Min}");
     for(int i=0; i<SortedByLast.Count; i++)
     {
-        // For tomorrow: 
-        // We need to find the actual lowest value first
-        // Then we can iterate over the other values in the list to find the next new lowest value
+        // Assume the first value of each iteration is the smallest to start
+        int Min = (int)SortedByLast[i].Last<char>();
+        Console.WriteLine($"Min starting as: {Min}");
         for(int j=i; j<SortedByLast.Count; j++)
         {
-            Console.WriteLine($"j starting at value: {j}");
-            // If a new min value is found, we step into this for block.
-            if((int)SortedByLast[j].Last<char>() < Min)
+            // If a new Min ascii value is found, step into the sorting logic
+            if(SortedByLast[j].Last<char>() < Min)
             {
-                // Min is set to the ascii value of the current index.
+                // Set Min to the newly found ascii value
                 Min = SortedByLast[j].Last<char>();
-                Console.WriteLine($"Min set to: {Min}");
-                Console.WriteLine($"Inserting {SortedByLast[j]} at index {j}\n");
-                // Insert the new min value into the list at the index of the Cursor.
-                SortedByLast.Insert(j, SortedByLast[j]);
-                // Remove the now extra value from the list at the index of j - 1.
-                // Since we are inserting something into the list, the index is being offset by 1.
-                // This is why we do j-1 instead of just j. 
-                // The index value of j will no longer be removing the correct string if we do not adjust for this.
-                Console.WriteLine($"Value of j {j} | Value of j - 1 {j -1 }");
-                Console.WriteLine($"String at j {SortedByLast[j]} String at j - 1 {SortedByLast[j]}\n");
-                Console.WriteLine($"Removing {SortedByLast[j]}");
-                SortedByLast.RemoveAt(j);
-                // Here is where we'll likely need to set the new value of mins at the Cursor so that we are assuming
-                // The new beginning of the list is the smallest value at the 'new' beginning of the list.
-                // We will also need to check that we don't throw the cursor out of bounds if we've reached the end of the list.
+                // Insert it at the beginning of the iteration
+                SortedByLast.Insert(i,SortedByLast[j]);
+                // Once inserted, remove it at an index of +1, since in the previous line, we've added on more value
+                // This means that our index reference is incorrect, so we have to adjust by adding 1.
+                SortedByLast.RemoveAt(j+1);
+                Console.WriteLine($"New min found! Setting Min to: {Min}");
             }
-            Console.WriteLine($"ASCII value at {j} : {(int)SortedByLast[j].Last<char>()}");
-            Console.WriteLine($"SortedByLast[{j}] = {SortedByLast[j]}\n");
         }
     }
-
     return SortedByLast.ToArray();
 }
 string[] test = Last("abc cba cab");
 
+Console.WriteLine("\nEND RESULT ********************************************************************");
 Console.WriteLine(test[0]);
 Console.WriteLine(test[1]);
 Console.WriteLine(test[2]);
