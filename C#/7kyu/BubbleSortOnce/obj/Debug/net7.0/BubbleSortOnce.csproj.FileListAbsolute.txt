@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\bin\Debug\net7.0\BubbleSortOnce.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\bin\Debug\net7.0\BubbleSortOnce.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\bin\Debug\net7.0\BubbleSortOnce.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\bin\Debug\net7.0\BubbleSortOnce.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\bin\Debug\net7.0\BubbleSortOnce.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\obj\Debug\net7.0\BubbleSortOnce.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\obj\Debug\net7.0\BubbleSortOnce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\obj\Debug\net7.0\BubbleSortOnce.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\obj\Debug\net7.0\BubbleSortOnce.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\obj\Debug\net7.0\BubbleSortOnce.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\obj\Debug\net7.0\BubbleSortOnce.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\obj\Debug\net7.0\refint\BubbleSortOnce.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\obj\Debug\net7.0\BubbleSortOnce.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\obj\Debug\net7.0\BubbleSortOnce.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\BubbleSortOnce\obj\Debug\net7.0\ref\BubbleSortOnce.dll
