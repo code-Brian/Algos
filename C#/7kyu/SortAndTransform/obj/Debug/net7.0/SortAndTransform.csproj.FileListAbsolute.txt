@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\bin\Debug\net7.0\SortAndTransform.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\bin\Debug\net7.0\SortAndTransform.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\bin\Debug\net7.0\SortAndTransform.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\bin\Debug\net7.0\SortAndTransform.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\bin\Debug\net7.0\SortAndTransform.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\obj\Debug\net7.0\SortAndTransform.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\obj\Debug\net7.0\SortAndTransform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\obj\Debug\net7.0\SortAndTransform.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\obj\Debug\net7.0\SortAndTransform.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\obj\Debug\net7.0\SortAndTransform.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\obj\Debug\net7.0\SortAndTransform.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\obj\Debug\net7.0\refint\SortAndTransform.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\obj\Debug\net7.0\SortAndTransform.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\obj\Debug\net7.0\SortAndTransform.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SortAndTransform\obj\Debug\net7.0\ref\SortAndTransform.dll
