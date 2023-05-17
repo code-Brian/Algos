@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\bin\Debug\net7.0\SuzukiStudents.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\bin\Debug\net7.0\SuzukiStudents.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\bin\Debug\net7.0\SuzukiStudents.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\bin\Debug\net7.0\SuzukiStudents.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\bin\Debug\net7.0\SuzukiStudents.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\obj\Debug\net7.0\SuzukiStudents.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\obj\Debug\net7.0\SuzukiStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\obj\Debug\net7.0\SuzukiStudents.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\obj\Debug\net7.0\SuzukiStudents.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\obj\Debug\net7.0\SuzukiStudents.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\obj\Debug\net7.0\SuzukiStudents.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\obj\Debug\net7.0\refint\SuzukiStudents.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\obj\Debug\net7.0\SuzukiStudents.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\obj\Debug\net7.0\SuzukiStudents.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\SuzukiStudents\obj\Debug\net7.0\ref\SuzukiStudents.dll
