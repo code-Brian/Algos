@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\bin\Debug\net7.0\GetTheMiddleCharacter.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\bin\Debug\net7.0\GetTheMiddleCharacter.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\bin\Debug\net7.0\GetTheMiddleCharacter.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\bin\Debug\net7.0\GetTheMiddleCharacter.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\bin\Debug\net7.0\GetTheMiddleCharacter.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\obj\Debug\net7.0\GetTheMiddleCharacter.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\obj\Debug\net7.0\GetTheMiddleCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\obj\Debug\net7.0\GetTheMiddleCharacter.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\obj\Debug\net7.0\GetTheMiddleCharacter.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\obj\Debug\net7.0\GetTheMiddleCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\obj\Debug\net7.0\GetTheMiddleCharacter.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\obj\Debug\net7.0\refint\GetTheMiddleCharacter.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\obj\Debug\net7.0\GetTheMiddleCharacter.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\obj\Debug\net7.0\GetTheMiddleCharacter.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\GetTheMiddleCharacter\obj\Debug\net7.0\ref\GetTheMiddleCharacter.dll
