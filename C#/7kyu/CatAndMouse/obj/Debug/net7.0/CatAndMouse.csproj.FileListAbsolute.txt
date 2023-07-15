@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\bin\Debug\net7.0\CatAndMouse.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\bin\Debug\net7.0\CatAndMouse.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\bin\Debug\net7.0\CatAndMouse.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\bin\Debug\net7.0\CatAndMouse.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\bin\Debug\net7.0\CatAndMouse.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\obj\Debug\net7.0\CatAndMouse.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\obj\Debug\net7.0\CatAndMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\obj\Debug\net7.0\CatAndMouse.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\obj\Debug\net7.0\CatAndMouse.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\obj\Debug\net7.0\CatAndMouse.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\obj\Debug\net7.0\CatAndMouse.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\obj\Debug\net7.0\refint\CatAndMouse.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\obj\Debug\net7.0\CatAndMouse.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\obj\Debug\net7.0\CatAndMouse.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\CatAndMouse\obj\Debug\net7.0\ref\CatAndMouse.dll
