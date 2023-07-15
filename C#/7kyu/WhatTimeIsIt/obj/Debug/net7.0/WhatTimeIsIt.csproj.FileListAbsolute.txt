@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\bin\Debug\net7.0\WhatTimeIsIt.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\bin\Debug\net7.0\WhatTimeIsIt.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\bin\Debug\net7.0\WhatTimeIsIt.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\bin\Debug\net7.0\WhatTimeIsIt.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\bin\Debug\net7.0\WhatTimeIsIt.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\obj\Debug\net7.0\WhatTimeIsIt.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\obj\Debug\net7.0\WhatTimeIsIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\obj\Debug\net7.0\WhatTimeIsIt.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\obj\Debug\net7.0\WhatTimeIsIt.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\obj\Debug\net7.0\WhatTimeIsIt.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\obj\Debug\net7.0\WhatTimeIsIt.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\obj\Debug\net7.0\refint\WhatTimeIsIt.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\obj\Debug\net7.0\WhatTimeIsIt.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\obj\Debug\net7.0\WhatTimeIsIt.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatTimeIsIt\obj\Debug\net7.0\ref\WhatTimeIsIt.dll
