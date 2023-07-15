@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\bin\Debug\net7.0\WhatDominatesYourArray.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\bin\Debug\net7.0\WhatDominatesYourArray.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\bin\Debug\net7.0\WhatDominatesYourArray.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\bin\Debug\net7.0\WhatDominatesYourArray.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\bin\Debug\net7.0\WhatDominatesYourArray.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\obj\Debug\net7.0\WhatDominatesYourArray.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\obj\Debug\net7.0\WhatDominatesYourArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\obj\Debug\net7.0\WhatDominatesYourArray.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\obj\Debug\net7.0\WhatDominatesYourArray.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\obj\Debug\net7.0\WhatDominatesYourArray.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\obj\Debug\net7.0\WhatDominatesYourArray.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\obj\Debug\net7.0\refint\WhatDominatesYourArray.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\obj\Debug\net7.0\WhatDominatesYourArray.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\obj\Debug\net7.0\WhatDominatesYourArray.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\WhatDominatesYourArray\obj\Debug\net7.0\ref\WhatDominatesYourArray.dll
