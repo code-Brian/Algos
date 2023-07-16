@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\bin\Debug\net7.0\OnesAndZeros.exe
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\bin\Debug\net7.0\OnesAndZeros.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\bin\Debug\net7.0\OnesAndZeros.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\bin\Debug\net7.0\OnesAndZeros.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\bin\Debug\net7.0\OnesAndZeros.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\obj\Debug\net7.0\OnesAndZeros.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\obj\Debug\net7.0\OnesAndZeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\obj\Debug\net7.0\OnesAndZeros.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\obj\Debug\net7.0\OnesAndZeros.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\obj\Debug\net7.0\OnesAndZeros.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\obj\Debug\net7.0\OnesAndZeros.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\obj\Debug\net7.0\refint\OnesAndZeros.dll
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\obj\Debug\net7.0\OnesAndZeros.pdb
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\obj\Debug\net7.0\OnesAndZeros.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\7kyu\OnesAndZeros\obj\Debug\net7.0\ref\OnesAndZeros.dll
