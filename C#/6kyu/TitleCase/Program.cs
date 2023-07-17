@@ -48,15 +48,15 @@ using System.Text.Json;
 //     return "";
 // }
 
-string TitleCase(string title, string minorWords)
+string TitleCase(string title, string minor)
 {
     string[] titleWords = title.Split(" ");
-    foreach (string word in titleWords)
-    {
-        Console.WriteLine(word);
-    }
+    string[] minorWords = minor.Split(" ");
     string jsonArray = JsonSerializer.Serialize(titleWords);
-    Console.WriteLine("Original title array:" + jsonArray);
+    string jsonMinorArray = JsonSerializer.Serialize(minorWords);
+    // Confirm the arrays were split correctly
+    Console.WriteLine("Original title words array:" + jsonArray);
+    Console.WriteLine("Original minor words array:" + jsonMinorArray);
 
     for(int i = 0; i < titleWords.Length; i++)
     {
@@ -66,17 +66,32 @@ string TitleCase(string title, string minorWords)
             if(j == 0)
             {
                 // Capitalize the first word, and store it in a temp string.
-                tempString = titleWords[i].Substring(0,1).ToUpper() + titleWords[i].Substring(1);
-                Console.WriteLine(tempString);
+                tempString = titleWords[i].Substring(0,1).ToUpper() + titleWords[i].Substring(1).ToLower();
+                Console.WriteLine("After: " + titleWords[i]);
+                titleWords[i] = tempString;
             }
             // Now we need to update the original word in the array
             tempString = "";
         }
     }
+    jsonArray = JsonSerializer.Serialize(titleWords);
     Console.WriteLine("Capitalized title array:" + jsonArray);
+
+    for(int i = 1; i < titleWords.Length; i++)
+    {
+        Console.WriteLine($"On title word: {titleWords[i]}");
+        for(int j = 0; j < minorWords.Length; j++)
+        {
+            Console.WriteLine($"checking title word for: {minorWords[j]}");
+            if(titleWords[i].ToLower() == minorWords[j])
+            {
+                Console.WriteLine($"Minor word found in title: {minorWords[j]}");
+            }
+        }
+    }
     return " ";
 }
-string minorWords = "";
-string title = "the big bad wolf";
+string minorWords = "a an the of";
+string title = "a clash of KINGS";
 
 TitleCase(title,minorWords);
