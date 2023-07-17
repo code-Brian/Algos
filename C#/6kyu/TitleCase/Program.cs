@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 using System.Text.Json;
 
 // string TitleCase(string title, string minorWords="")
@@ -50,6 +50,11 @@ using System.Text.Json;
 
 string TitleCase(string title, string minor)
 {
+    if(title == null || minor == null)
+    {
+        Console.WriteLine("Invalid input!");
+        return "Invalid input";
+    }
     string[] titleWords = title.Split(" ");
     string[] minorWords = minor.Split(" ");
     string jsonArray = JsonSerializer.Serialize(titleWords);
@@ -60,36 +65,38 @@ string TitleCase(string title, string minor)
 
     for(int i = 0; i < titleWords.Length; i++)
     {
-        for(int j = 0; j < titleWords[i].Length; j++)
+        Console.WriteLine($"On title word: {titleWords[i]}");
+        for(int j = 0; j < minorWords.Length; j++)
         {
             string tempString = "";
-            if(j == 0)
+            Console.WriteLine($"checking title word for: {minorWords[j]}");
+            if(i == 0)
             {
-                // Capitalize the first word, and store it in a temp string.
+                Console.WriteLine("First word of the title!");
+                tempString = titleWords[i].Substring(0,1).ToUpper() + titleWords[i].Substring(1).ToLower();
+                titleWords[i] = tempString;
+            }
+            else if(titleWords[i].ToLower() == minorWords[j].ToLower())
+            {
+                Console.WriteLine($"Minor word found in title: {minorWords[j]}");
+                titleWords[i] = minorWords[j];
+            }
+            else
+            {
                 tempString = titleWords[i].Substring(0,1).ToUpper() + titleWords[i].Substring(1).ToLower();
                 Console.WriteLine("After: " + titleWords[i]);
                 titleWords[i] = tempString;
             }
-            // Now we need to update the original word in the array
             tempString = "";
         }
     }
-    jsonArray = JsonSerializer.Serialize(titleWords);
-    Console.WriteLine("Capitalized title array:" + jsonArray);
 
-    for(int i = 1; i < titleWords.Length; i++)
-    {
-        Console.WriteLine($"On title word: {titleWords[i]}");
-        for(int j = 0; j < minorWords.Length; j++)
-        {
-            Console.WriteLine($"checking title word for: {minorWords[j]}");
-            if(titleWords[i].ToLower() == minorWords[j])
-            {
-                Console.WriteLine($"Minor word found in title: {minorWords[j]}");
-            }
-        }
-    }
-    return " ";
+    jsonArray = JsonSerializer.Serialize(titleWords);
+    Console.WriteLine("Final title array:" + jsonArray);
+
+    string result = string.Join(" ", titleWords);
+    Console.WriteLine(result);
+    return result;
 }
 string minorWords = "a an the of";
 string title = "a clash of KINGS";
