@@ -55,10 +55,28 @@ string TitleCase(string title, string minorWords)
     {
         Console.WriteLine(word);
     }
+    string jsonArray = JsonSerializer.Serialize(titleWords);
+    Console.WriteLine("Original title array:" + jsonArray);
+
+    for(int i = 0; i < titleWords.Length; i++)
+    {
+        for(int j = 0; j < titleWords[i].Length; j++)
+        {
+            string tempString = "";
+            if(j == 0)
+            {
+                // Capitalize the first word, and store it in a temp string.
+                tempString = titleWords[i].Substring(0,1).ToUpper() + titleWords[i].Substring(1);
+                Console.WriteLine(tempString);
+            }
+            // Now we need to update the original word in the array
+            tempString = "";
+        }
+    }
+    Console.WriteLine("Capitalized title array:" + jsonArray);
     return " ";
 }
-
 string minorWords = "";
-string title = "the big black clock";
+string title = "the big bad wolf";
 
 TitleCase(title,minorWords);
