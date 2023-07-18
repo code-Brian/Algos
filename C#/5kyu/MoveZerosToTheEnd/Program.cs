@@ -2,22 +2,22 @@
 
 int[] MoveZeros(int[] arr)
 {
+    int tempIndex = 0;
     // Will try to start with bubble sort
-    int swapIndex = 0;
-    for(int i = 0; i < arr.Length - 1; i++)
+    for(int i = 0; i < arr.Length; i++)
     {
         Console.WriteLine($"i: {i}");
-        if(arr[i] == 0 && arr[i+1] != 0)
+        if(arr[i] == 0)
         {
-            for(int j = i; j < arr.Length-1; j++)
+            Console.WriteLine($"Zero found at: arr[{i}]");
+            for(int j = i; j < arr.Length- i - 2; j++)
             {
-                Console.WriteLine($"Found 0 at arr[{j}].");
-                swapIndex = arr[j];
-                Console.WriteLine($"swapIndex being set to: {arr[j+1]}");
+                tempIndex = arr[j];
+                Console.WriteLine($"Setting tempIndex: {tempIndex}");
+
                 arr[j] = arr[j+1];
-                Console.WriteLine($"arr[{j}] set to: {arr[j+1]}");
-                arr[j+1] = swapIndex;
-                Console.WriteLine($"arr[{j+1}] set to: {swapIndex}");
+                Console.WriteLine($"Swapping arr[{j}]: {arr[j]} for arr[{j+1}]: {arr[j+1]}");
+                arr[j+1] = tempIndex;
             }
         }
     }
@@ -27,5 +27,7 @@ int[] MoveZeros(int[] arr)
 }
 
 int[] testArray = new int[]{1,2,0,1,0,1,0,3,0,1}; // should be sorted to: 1, 2, 1, 1, 3, 1, 0, 0, 0, 0
+int[] randomArray = new int[]{2,2,3,2,0,1,0,3,4,5,0,3,4,2,5,5,1,0,0,4,4,3,5,0,5,5,1,3,0,5,5,5,1,3,0,5,3,1,1,1,0,0};
 
 MoveZeros(testArray);
+MoveZeros(randomArray);
