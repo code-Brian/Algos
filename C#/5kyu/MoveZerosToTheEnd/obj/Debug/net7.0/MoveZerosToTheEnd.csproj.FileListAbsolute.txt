@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\bin\Debug\net7.0\MoveZerosToTheEnd.exe
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\bin\Debug\net7.0\MoveZerosToTheEnd.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\bin\Debug\net7.0\MoveZerosToTheEnd.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\bin\Debug\net7.0\MoveZerosToTheEnd.dll
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\bin\Debug\net7.0\MoveZerosToTheEnd.pdb
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\obj\Debug\net7.0\MoveZerosToTheEnd.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\obj\Debug\net7.0\MoveZerosToTheEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\obj\Debug\net7.0\MoveZerosToTheEnd.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\obj\Debug\net7.0\MoveZerosToTheEnd.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\obj\Debug\net7.0\MoveZerosToTheEnd.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\obj\Debug\net7.0\MoveZerosToTheEnd.dll
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\obj\Debug\net7.0\refint\MoveZerosToTheEnd.dll
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\obj\Debug\net7.0\MoveZerosToTheEnd.pdb
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\obj\Debug\net7.0\MoveZerosToTheEnd.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\5kyu\MoveZerosToTheEnd\obj\Debug\net7.0\ref\MoveZerosToTheEnd.dll
