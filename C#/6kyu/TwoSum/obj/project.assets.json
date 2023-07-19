@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brian\\Documents\\coding\\algos\\C#\\6kyu\\MoveZerosToTheEnd\\MoveZerosToTheEnd.csproj",
-      "projectName": "MoveZerosToTheEnd",
-      "projectPath": "C:\\Users\\Brian\\Documents\\coding\\algos\\C#\\6kyu\\MoveZerosToTheEnd\\MoveZerosToTheEnd.csproj",
+      "projectUniqueName": "C:\\Users\\Brian\\Documents\\coding\\algos\\C#\\6kyu\\TwoSum\\TwoSum.csproj",
+      "projectName": "TwoSum",
+      "projectPath": "C:\\Users\\Brian\\Documents\\coding\\algos\\C#\\6kyu\\TwoSum\\TwoSum.csproj",
       "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brian\\Documents\\coding\\algos\\C#\\6kyu\\MoveZerosToTheEnd\\obj\\",
+      "outputPath": "C:\\Users\\Brian\\Documents\\coding\\algos\\C#\\6kyu\\TwoSum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Brian\\AppData\\Roaming\\NuGet\\NuGet.Config"
