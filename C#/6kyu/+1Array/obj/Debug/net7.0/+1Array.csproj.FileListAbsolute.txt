@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\bin\Debug\net7.0\+1Array.exe
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\bin\Debug\net7.0\+1Array.deps.json
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\bin\Debug\net7.0\+1Array.runtimeconfig.json
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\bin\Debug\net7.0\+1Array.dll
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\bin\Debug\net7.0\+1Array.pdb
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\obj\Debug\net7.0\+1Array.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\obj\Debug\net7.0\+1Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\obj\Debug\net7.0\+1Array.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\obj\Debug\net7.0\+1Array.AssemblyInfo.cs
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\obj\Debug\net7.0\+1Array.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\obj\Debug\net7.0\+1Array.dll
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\obj\Debug\net7.0\refint\+1Array.dll
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\obj\Debug\net7.0\+1Array.pdb
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\obj\Debug\net7.0\+1Array.genruntimeconfig.cache
+C:\Users\Brian\Documents\coding\algos\C#\6kyu\+1Array\obj\Debug\net7.0\ref\+1Array.dll
